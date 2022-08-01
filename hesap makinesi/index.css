@@ -1,0 +1,29 @@
+body{
+    background-color:black;
+    text-align: center;
+    color:rgb(7, 252, 7);
+    margin-top: 100px;
+}
+.container{
+    background-color: white;
+}
+h1{
+    text-shadow:2px 0px rgb(223, 216, 216);
+}
+.container-btn{
+    position:relative;
+    display:flex;
+    justify-content:center;
+    margin:30px;
+}
+button{
+    cursor:pointer;
+    border:none;
+    border-radius: 10px;
+    margin-left: 20px;
+    padding: 10px 20px;
+}
+button:hover{
+    background-color: red;
+    color:white;
+}
