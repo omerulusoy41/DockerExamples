@@ -19,4 +19,10 @@ you need the install docker
 
 ## Java with ChessConsoleApp
 ![JavaChess1](https://github.com/omerulusoy41/DockerExamples/blob/main/ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC/Ekran%20G%C3%B6r%C3%BCnt%C3%BCs%C3%BC%20(8).png)
-![JavaChees2](https://github.com/omerulusoy41/DockerExamples/blob/main/ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC/Ekran%20G%C3%B6r%C3%BCnt%C3%BCs%C3%BC%20(9).png)
+![JavaChees2](https://github.com/omerulusoy41/DockerExamples/blob/main/ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC/Ekran%20G%C3%B6r%C3%BCnt%C3%BCs%C3%BC%20(11).png)
+#### What you need to do to use the application:
+you need the install docker
+###### docker codes:
+1-) docker run -it omerulusoy/javachess:chess
+
+stand by for the continuation :)))
