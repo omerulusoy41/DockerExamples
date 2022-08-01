@@ -78,7 +78,7 @@ public class Main {
 		tahtaGoster();
 		char[] karakterler={'A','B','C','D','E','F','G','H'};
 		char x;
-		System.out.print("\nkonumunu giriniz (x(A,B),y(0,1))(ORN:D 5)=");
+		System.out.print("\nKonumunu giriniz (x(A,B),y(0,1))(ORN:D 5)=");
 		x=scan.next().charAt(0);
 		y=scan.nextInt();
 		indexX=0;
