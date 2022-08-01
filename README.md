@@ -1,2 +1,5 @@
 # DockerExemaples
-Docker teknolojisi kullanilarak olusturulmustur
+Docker,java and javascript technologies are used.
+
+## JavaScript with Calculator
+
